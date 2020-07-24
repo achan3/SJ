@@ -1,0 +1,155 @@
+.title{
+    font-size:30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:900;
+    left: 600px;
+    top:30px;
+    position:absolute;
+}
+.shop{
+    font-size:30px;
+    font-family:'Courier New', Courier, monospace;
+    left: 100px;
+    top:30px;
+    position:absolute;
+}
+.about{
+    font-size: 30px;
+    left:200px;
+    top:30px;
+    font-family:'Courier New', Courier, monospace;
+    position:absolute;
+}
+.sign-in{
+    font-size:30px;
+    font-family:'Courier New', Courier, monospace;
+    left:1230px;
+    top:30px;
+    position:absolute;
+}
+.sustainable{
+    left:800px;
+    top:200px;
+    position:absolute;
+    width:200;
+}
+.sustainable1{
+    left:900px;
+    top:490px;
+    position:absolute;
+    width:200px;
+}
+.sustainable2{
+    left:1120px;
+    top:450px;
+    position: absolute;
+    width:200px;
+}
+.sustainable3{
+    left:1020px;
+    top:230px;
+    position:absolute;
+    width:150px;
+}
+.sustainable4{
+    left:605px;
+    top:300px;
+    position:absolute;
+    width:175px;
+}
+.sustainable5{
+    left:760px;
+    top:550px;
+    position:absolute;
+    width:120;
+}
+.summer{
+    font-family:'Courier New', Courier, monospace;
+    font-size:30;
+    top:200px;
+    left:100px;
+    position:absolute;
+}
+.buy{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50;
+    top:250px;
+    left:100px;
+    position:absolute;
+}
+.get{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50;
+    top:310px;
+    left:100px;
+    position:absolute;
+}
+.off{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50;
+    top: 370px;
+    left:100px;
+    position:absolute;
+}
+.jewlery{
+    background-color: #edf0f5;
+    border:none;
+    top: 500px;
+    left:100px;
+    padding: 10px 30px;
+    position:absolute;
+    font-family:'Courier New', Courier, monospace;
+    font-size:20px;
+    border-radius:8px;
+}
+.grid-container{
+    display: grid;
+    grid-gap: 30px 30px;
+    grid-template-columns: auto auto auto;
+    grid-area:center;
+    position: relative;
+    top:900px;
+    right:120px;
+    padding:200px;
+}
+.best{
+    font-family:'Courier New', Courier, monospace;
+    font-size:30px;
+    top:1000px;
+    left:100px;
+    position:absolute;
+}
+.name1{
+    font-family:'Courier New', Courier, monospace;
+    font-size:20px;
+}
+.name2{
+    font-family:'Courier New', Courier, monospace;
+    font-size:20px;
+}
+.name3{
+    font-family:'Courier New', Courier, monospace;
+    font-size:20px;
+}
+.price1{
+    font-family:'Courier New', Courier, monospace;
+    font-size:20px;
+    left:560px;
+    top:750px;
+    position:absolute;
+}
+.price2{
+    font-family:'Courier New', Courier, monospace;
+    font-size:20px;
+    top:750px;
+    left:990px;
+    position:absolute;
+}
+.price3{
+    font-family:'Courier New', Courier, monospace;
+    font-size:20px;
+    top:750px;
+    left:1420px;
+    position:absolute;
+}
+
